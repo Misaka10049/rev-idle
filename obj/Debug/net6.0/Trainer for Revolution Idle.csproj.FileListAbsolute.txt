@@ -1,0 +1,29 @@
+D:\study\Program\Trainer for Revolution Idle\bin\Debug\net6.0\Trainer_for_Revolution_Idle.deps.json
+D:\study\Program\Trainer for Revolution Idle\bin\Debug\net6.0\Trainer_for_Revolution_Idle.dll
+D:\study\Program\Trainer for Revolution Idle\bin\Debug\net6.0\Trainer_for_Revolution_Idle.pdb
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.csproj.AssemblyReference.cache
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\MyPluginInfo.cs
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.AssemblyInfoInputs.cache
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.AssemblyInfo.cs
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.csproj.CoreCompileInputs.cache
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer_for_Revolution_Idle.dll
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\refint\Trainer_for_Revolution_Idle.dll
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer_for_Revolution_Idle.pdb
+D:\study\Program\Trainer for Revolution Idle\obj\Debug\net6.0\ref\Trainer_for_Revolution_Idle.dll
+E:\SteamLibrary\steamapps\common\Revolution Idle\BepInEx\plugins\Trainer_for_Revolution_Idle.deps.json
+E:\SteamLibrary\steamapps\common\Revolution Idle\BepInEx\plugins\Trainer_for_Revolution_Idle.dll
+E:\SteamLibrary\steamapps\common\Revolution Idle\BepInEx\plugins\Trainer_for_Revolution_Idle.pdb
+D:\study\Program\Unity Game\Trainer for Revolution Idle\bin\Debug\net6.0\Trainer_for_Revolution_Idle.deps.json
+D:\study\Program\Unity Game\Trainer for Revolution Idle\bin\Debug\net6.0\Trainer_for_Revolution_Idle.dll
+D:\study\Program\Unity Game\Trainer for Revolution Idle\bin\Debug\net6.0\Trainer_for_Revolution_Idle.pdb
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.csproj.AssemblyReference.cache
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\MyPluginInfo.cs
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.AssemblyInfoInputs.cache
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.AssemblyInfo.cs
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer for Revolution Idle.csproj.CoreCompileInputs.cache
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer_for_Revolution_Idle.dll
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\refint\Trainer_for_Revolution_Idle.dll
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\Trainer_for_Revolution_Idle.pdb
+D:\study\Program\Unity Game\Trainer for Revolution Idle\obj\Debug\net6.0\ref\Trainer_for_Revolution_Idle.dll

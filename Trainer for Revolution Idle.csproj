@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>Trainer_for_Revolution_Idle</AssemblyName>
+    <Product>My first plugin</Product>
+    <Version>1.0.0</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+    <RestoreAdditionalProjectSources>
+      https://api.nuget.org/v3/index.json;
+      https://nuget.bepinex.dev/v3/index.json;
+      https://nuget.samboy.dev/v3/index.json
+    </RestoreAdditionalProjectSources>
+    <RootNamespace>Trainer_for_Revolution_Idle</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.*" IncludeAssets="compile" />
+    <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
+    <Reference Include="Assembly-CSharp">
+      <Private>false</Private>
+      <HintPath>D:\study\Program\Trainer for Revolution Idle\lib\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <!-- <Reference Include="GameAssembly">
+      <HintPath>D:\study\Program\Trainer for Revolution Idle\lib\bundle.dll</HintPath>
+    </Reference> -->
+    <Reference Include="UnityEngine.CoreModule">
+      <Private>false</Private>
+      <HintPath>D:\study\Program\Trainer for Revolution Idle\lib\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2Cppmscorlib">
+      <Private>false</Private>
+      <HintPath>D:\study\Program\Trainer for Revolution Idle\lib\Il2Cppmscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <Private>false</Private>
+      <HintPath>D:\study\Program\Trainer for Revolution Idle\lib\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <Private>false</Private>
+      <HintPath>D:\study\Program\Trainer for Revolution Idle\lib\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="ACTk.Runtime">
+      <Private>false</Private>
+      <HintPath>D:\study\Program\Trainer for Revolution Idle\lib\ACTk.Runtime.dll</HintPath>
+    </Reference>
+    <!-- <Reference Include="GameAssembly">
+      <HintPath>D:\study\Program\Trainer for Revolution Idle\lib\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference> -->
+    <!-- <Reference Include="GameAssembly">
+      <HintPath>D:\study\Program\Trainer for Revolution Idle\lib\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference> -->
+  </ItemGroup>
+</Project>
