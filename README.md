@@ -15,7 +15,7 @@
 
 5. 启动游戏，如果看到控制台，说明 BepInEx 安装成功，安装 BepInEx 后的第一次启动需要 1~2 分钟，这是 BepInEx 在分析游戏的类和方法等，耐心等待，后续启动时长会恢复正常
 
-    如果在控制台里看到白字 "[Message:   Trainer] Plugin Trainer_for_Revolution_Idle was loaded!"，说明修改器成功加载
+    如果控制台出现白字 "Plugin Trainer_for_Revolution_Idle was loaded!"，说明修改器成功加载
 
 6. 关闭游戏，打开 游戏目录/BepInEx/config/trainer.ri.cfg ，修改配置文件，里面注明了各项功能(示例见下)
 
